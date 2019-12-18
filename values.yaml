@@ -12,7 +12,7 @@ clusters:
       branch: showandtell
 
 - name: gke
-  destinationServer: 
+  destinationServer: https://23.236.63.218
   apps:
     prometheusOperator:
       enabled: true
